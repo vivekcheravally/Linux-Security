@@ -23,4 +23,7 @@ Dependencies Required
 ---------------------
       libcap-dev
     
-Installation method : sudo apt-get install libcap-dev
+Installation method
+-------------------
+   
+    sudo apt-get install libcap-dev
