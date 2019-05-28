@@ -15,6 +15,7 @@ Method to run the code base
 ---------------------------
 
  Run the following commands in multiple termnal window :
+ 
       make 
       LD_PRELOAD=./preload.so ./open vivek.txt
       
